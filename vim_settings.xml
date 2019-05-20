@@ -1086,10 +1086,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558318774796">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558321144142">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/readme.txt" timestamp="1555034677311">
         <mark key="[" line="5" column="4" />
@@ -1395,43 +1396,43 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>first</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KG1hcCA6cmVhbCBpZGVudGl0aWVzKQo=</text>
+        <text encoding="base64">KGZpcnN0ICcoOnJhYmJpdCA6cG9ja2V0LXdhdGNoIDptYXJtYWxhZGUgOmRvb3IpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGNsYXNzIGZpcnN0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">NC4wLy8yCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NC8yCg==</text>
+        <text encoding="base64">KHJlc3QgJyg6cmEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cjs7IMjdxvcgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiY291bnQ9JXMiLGNhbGMoKSk7Cg==</text>
+        <text encoding="base64">Ozsgse2078q9IGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">OzsgvPK1pda1IGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FsYygpKTsK</text>
+        <text encoding="base64">o6grIDEgMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
     <search>
@@ -1458,9 +1459,9 @@
         <entry>27</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>action KJumpAction.Line</entry>
         <entry>action ReformatCode</entry>
+        <entry>action KJumpAction.Line</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
