@@ -569,7 +569,7 @@
         <mark key="^" line="126" column="28" />
         <mark key="." line="126" column="28" />
       </file>
-      <file name="/REPL.clj" timestamp="1557887309315">
+      <file name="/REPL.clj" timestamp="1558318347823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1086,6 +1086,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558318774796">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/readme.txt" timestamp="1555034677311">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="3" />
@@ -1390,40 +1395,40 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>alc</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KG1hcCA6cmVhbCBpZGVudGl0aWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsK</text>
+        <text encoding="base64">NC4wLy8yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NC8yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiY291bnQ9JXMiLGNhbGMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDAwOyBpKyspIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FsYygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiY291bnQ9JXMiLGNhbGMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FsYygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
