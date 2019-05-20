@@ -1086,11 +1086,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558322934976">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="86" column="13" />
+      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558326201418">
+        <mark key="[" line="106" column="7" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="97" column="9" />
+        <mark key="^" line="97" column="9" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/readme.txt" timestamp="1555034677311">
         <mark key="[" line="5" column="4" />
@@ -1396,40 +1396,40 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>-1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGZpcnN0IFs6amFyMSAxIDIgMyA6amFyMl0pCg==</text>
+        <text encoding="base64">KDpqYW0yIHs6amFtMSAic3RyYXdiZXJyeSIsIDpqYW0yICJibGFja2JlcnJ5IiwgOmphbTMgIm1hcm1hbGFkZSJ9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGNsYXNzIChyZXN0IFsxIDIgMyA0XSkpCg==</text>
+        <text encoding="base64">Ozs7IDYuMiBtYXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KG1hcCAoOmphbTEgInN0cmF3YmVycnkiIDpqYW0yICJibGFja2JlcnJ5IikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGNvbnMgNSAzKQo=</text>
+        <text encoding="base64">ezpqYW0xICJzdHJhd2JlcnJ5IiwgOmphbTIgImJsYWNrYmVycnkifQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">o6hjb25zIDUgJygpCg==</text>
+        <text encoding="base64">KGNsYXNzIChyZXN0IFsxIDIgMyA0XSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHNpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGNsYXNzIGZpcnN0KQo=</text>
+        <text encoding="base64">KGNvbnMgNSAzKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KQoK</text>
+      <register name="7" type="2">
+        <text encoding="base64">o6hjb25zIDUgJygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KHJlc3QgJyg6cmEpKQo=</text>
+        <text encoding="base64">KHNpemUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">KGNsYXNzIGZpcnN0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>action KJumpAction.Word0</text>
