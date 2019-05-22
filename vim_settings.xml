@@ -342,12 +342,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/http/RequestEntity.class" timestamp="1555388259489">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-      </file>
       <file name="$USER_HOME$/Git/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch03/demo01.clj" timestamp="1556092124316">
         <mark key="[" line="275" column="0" />
         <mark key="]" line="276" column="6" />
@@ -412,6 +406,12 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/http/RequestEntity.class" timestamp="1555388259489">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/AdvancedMemberStrategy.java" timestamp="1554867452908">
         <mark key="[" line="5" column="50" />
@@ -563,7 +563,7 @@
         <mark key="^" line="212" column="33" />
         <mark key="." line="212" column="33" />
       </file>
-      <file name="/REPL.clj" timestamp="1558318347823">
+      <file name="/REPL.clj" timestamp="1558514168691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1164,6 +1164,9 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558514913139">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/StringConverter.java" timestamp="1555400922513">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="33" />
@@ -1291,9 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="36" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
@@ -1391,6 +1391,9 @@
       <jump line="2" column="14" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+      <jump line="89" column="24" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="143" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
