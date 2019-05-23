@@ -566,7 +566,7 @@
         <mark key="^" line="212" column="33" />
         <mark key="." line="212" column="33" />
       </file>
-      <file name="/REPL.clj" timestamp="1558514168691">
+      <file name="/REPL.clj" timestamp="1558594298342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -811,6 +811,13 @@
         <mark key="]" line="10" column="19" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558600820955">
+        <mark key="'" line="5" column="3" />
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="65" column="41" />
+        <mark key="." line="65" column="41" />
+        <mark key="^" line="65" column="41" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ConverterStrategyContext.java" timestamp="1555408388265">
         <mark key="[" line="6" column="17" />
@@ -1080,6 +1087,12 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo02.clj" timestamp="1558597479150">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch05/Main.java" timestamp="1557992330383">
         <mark key="[" line="2" column="19" />
       </file>
@@ -1106,6 +1119,12 @@
         <mark key="]" line="5" column="72" />
         <mark key="^" line="5" column="72" />
         <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/wonderland.clj" timestamp="1558598055663">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version00/DecoyDuck.java" timestamp="1554780617675">
         <mark key="[" line="6" column="52" />
@@ -1167,12 +1186,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558593474351">
-        <mark key="'" line="38" column="1" />
-        <mark key="[" line="144" column="25" />
-        <mark key="]" line="119" column="35" />
-        <mark key="^" line="119" column="35" />
-        <mark key="." line="119" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558596794624">
+        <mark key="'" line="47" column="3" />
+        <mark key="[" line="190" column="10" />
+        <mark key="]" line="190" column="10" />
+        <mark key="." line="190" column="10" />
+        <mark key="^" line="190" column="11" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/StringConverter.java" timestamp="1555400922513">
         <mark key="[" line="4" column="34" />
@@ -1301,11 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="26" column="32" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
-      <jump line="28" column="13" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version02/Apple.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version03/Client.java" />
       <jump line="16" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Client.java" />
       <jump line="32" column="68" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Client.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version05/Apple.java" />
@@ -1401,10 +1415,15 @@
       <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
       <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
       <jump line="38" column="1" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="146" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="147" column="5" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="183" column="11" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="47" column="3" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="4" column="3" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>构建列表</text>
+        <text>posion</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">cGFja2FnZSBjaDAzX2RlY29yYXRvcl9zdGFyYnV6ei52ZXJzaW9uMDA7CgpwdWJsaWMgY2xhc3MgRGFya1JvYXN0IGV4dGVuZHMgQmV2ZXJhZ2UgewoKICAgIHB1YmxpYyBEYXJrUm9hc3QoKSB7CiAgICAgICAgZGVzY3JpcHRpb24gPSAiSSBhbSBkYXJrIHJvYXN0IGNvZmZlZS4iCiAgICB9Cgo=</text>
@@ -1413,10 +1432,10 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>构建列表</text>
+        <text>posion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KDpqYW0yIHs6amFtMSAic3RyYXdiZXJyeSIsIDpqYW0yICJibGFja2JlcnJ5IiwgOmphbTMgIm1hcm1hbGFkZSJ9KQo=</text>
+        <text encoding="base64">KGZuIFtdIChzdHIgIk9mZiB3ZSBnbyIgIiEiKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1425,28 +1444,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">77+977+9Cg==</text>
+        <text encoding="base64">KGVtcHR5ICcoMSAyIDMgNCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGNsYXNzID0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ozs7IDYuMiBtYXAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KG1hcCAoOmphbTEgInN0cmF3YmVycnkiIDpqYW0yICJibGFja2JlcnJ5IikpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ezpqYW0xICJzdHJhd2JlcnJ5IiwgOmphbTIgImJsYWNrYmVycnkifQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KGNsYXNzIChyZXN0IFsxIDIgMyA0XSkpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmFsc2UKKGNsYXNzIGZhbHNlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KHRydWU/ICg9IDMgNCkpCih0cnVlPyAoPSAxIDEpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KHRydWU/IHRydWUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KCpjb21tYW5kLWxpbmUtYXJncyopCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KGNvbnMgNSAzKQo=</text>
+        <text encoding="base64">KCpucyopCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
