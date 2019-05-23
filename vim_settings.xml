@@ -384,7 +384,7 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core.clj" timestamp="1558515629729">
+      <file name="$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core.clj" timestamp="1558602598499">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch04/demo01.clj" timestamp="1557903840297">
@@ -577,7 +577,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557998403564">
+      <file name="/Dummy.txt" timestamp="1558602612560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/UserType.java" timestamp="1554795196869">
@@ -812,12 +812,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558601022755">
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558602339309">
         <mark key="'" line="5" column="3" />
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="63" column="76" />
-        <mark key="." line="63" column="76" />
-        <mark key="^" line="63" column="76" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="67" column="51" />
+        <mark key="." line="67" column="51" />
+        <mark key="^" line="67" column="51" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ConverterStrategyContext.java" timestamp="1555408388265">
         <mark key="[" line="6" column="17" />
@@ -1423,7 +1423,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IOKAneS4gOS4quS5n+ayoeacieKAnCDov5vooYzmtYvor5UgLS0+IG5vdC1hbnk/</text>
+        <text>false</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">cGFja2FnZSBjaDAzX2RlY29yYXRvcl9zdGFyYnV6ei52ZXJzaW9uMDA7CgpwdWJsaWMgY2xhc3MgRGFya1JvYXN0IGV4dGVuZHMgQmV2ZXJhZ2UgewoKICAgIHB1YmxpYyBEYXJrUm9hc3QoKSB7CiAgICAgICAgZGVzY3JpcHRpb24gPSAiSSBhbSBkYXJrIHJvYXN0IGNvZmZlZS4iCiAgICB9Cgo=</text>
@@ -1432,10 +1432,10 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOKAneS4gOS4quS5n+ayoeacieKAnCDov5vooYzmtYvor5UgLS0+IG5vdC1hbnk/</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OzsgMS4yLjMg5a+5IENvbGxlY3Rpb24g5q+P5LiA6aG56L+b6KGM5rWL6K+VIC0tPiBldmVyeT8K</text>
+        <text encoding="base64">KHNvbWUgIyg+ICUgMykgWzEgMiAzIDQgNV0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OzsgMS4yLjMg5a+5IENvbGxlY3Rpb24g5q+P5LiA6aG56L+b6KGM5rWL6K+VIC0tPiBldmVyeT8K</text>
