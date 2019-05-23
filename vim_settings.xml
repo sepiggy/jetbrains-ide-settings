@@ -812,12 +812,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558600820955">
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558601022755">
         <mark key="'" line="5" column="3" />
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="41" />
-        <mark key="^" line="65" column="41" />
+        <mark key="[" line="65" column="44" />
+        <mark key="]" line="63" column="76" />
+        <mark key="." line="63" column="76" />
+        <mark key="^" line="63" column="76" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ConverterStrategyContext.java" timestamp="1555408388265">
         <mark key="[" line="6" column="17" />
@@ -1423,7 +1423,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>posion</text>
+        <text encoding="base64">IOKAneS4gOS4quS5n+ayoeacieKAnCDov5vooYzmtYvor5UgLS0+IG5vdC1hbnk/</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">cGFja2FnZSBjaDAzX2RlY29yYXRvcl9zdGFyYnV6ei52ZXJzaW9uMDA7CgpwdWJsaWMgY2xhc3MgRGFya1JvYXN0IGV4dGVuZHMgQmV2ZXJhZ2UgewoKICAgIHB1YmxpYyBEYXJrUm9hc3QoKSB7CiAgICAgICAgZGVzY3JpcHRpb24gPSAiSSBhbSBkYXJrIHJvYXN0IGNvZmZlZS4iCiAgICB9Cgo=</text>
@@ -1432,40 +1432,40 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>posion</text>
+        <text encoding="base64">IOKAneS4gOS4quS5n+ayoeacieKAnCDov5vooYzmtYvor5UgLS0+IG5vdC1hbnk/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGZuIFtdIChzdHIgIk9mZiB3ZSBnbyIgIiEiKSkK</text>
+        <text encoding="base64">OzsgMS4yLjMg5a+5IENvbGxlY3Rpb24g5q+P5LiA6aG56L+b6KGM5rWL6K+VIC0tPiBldmVyeT8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgMS4yLjMg5a+5IENvbGxlY3Rpb24g5q+P5LiA6aG56L+b6KGM5rWL6K+VIC0tPiBldmVyeT8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGVtcHR5ICcoMSAyIDMgNCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KGNsYXNzID0pCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">KGVtcHR5ICcoMSAyIDMgNCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">KGNsYXNzID0pCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmFsc2UKKGNsYXNzIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHRydWU/ICg9IDMgNCkpCih0cnVlPyAoPSAxIDEpKQo=</text>
+        <text encoding="base64">ZmFsc2UKKGNsYXNzIGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHRydWU/IHRydWUpCg==</text>
+        <text encoding="base64">KHRydWU/ICg9IDMgNCkpCih0cnVlPyAoPSAxIDEpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KCpjb21tYW5kLWxpbmUtYXJncyopCg==</text>
+        <text encoding="base64">KHRydWU/IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KCpucyopCg==</text>
+        <text encoding="base64">KCpjb21tYW5kLWxpbmUtYXJncyopCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
