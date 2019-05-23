@@ -1167,8 +1167,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558575573164">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558593474351">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="144" column="25" />
+        <mark key="]" line="119" column="35" />
+        <mark key="^" line="119" column="35" />
+        <mark key="." line="119" column="35" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/StringConverter.java" timestamp="1555400922513">
         <mark key="[" line="4" column="34" />
@@ -1297,9 +1301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="18" column="7" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
       <jump line="43" column="34" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
       <jump line="26" column="32" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
       <jump line="28" column="13" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
@@ -1397,10 +1398,13 @@
       <jump line="143" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core.clj" />
+      <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="38" column="1" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>构建列表</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">cGFja2FnZSBjaDAzX2RlY29yYXRvcl9zdGFyYnV6ei52ZXJzaW9uMDA7CgpwdWJsaWMgY2xhc3MgRGFya1JvYXN0IGV4dGVuZHMgQmV2ZXJhZ2UgewoKICAgIHB1YmxpYyBEYXJrUm9hc3QoKSB7CiAgICAgICAgZGVzY3JpcHRpb24gPSAiSSBhbSBkYXJrIHJvYXN0IGNvZmZlZS4iCiAgICB9Cgo=</text>
@@ -1409,7 +1413,7 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>差</text>
+        <text>构建列表</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KDpqYW0yIHs6amFtMSAic3RyYXdiZXJyeSIsIDpqYW0yICJibGFja2JlcnJ5IiwgOmphbTMgIm1hcm1hbGFkZSJ9KQo=</text>
