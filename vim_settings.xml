@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/BaseResponse.java" timestamp="1555387307602">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/BufferdReaderProcessor.java" timestamp="1555314496323">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/HttpEnums.java" timestamp="1555386977795">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
       </file>
       <file name="C:/Development/Playground/playground4j/README.md" timestamp="1557127098931">
         <mark key="[" line="0" column="0" />
@@ -21,29 +15,35 @@
       <file name="/a.dummy" timestamp="1557131539174">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/RubberDuck.java" timestamp="1554778669647">
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="11" column="61" />
-        <mark key="." line="11" column="61" />
-        <mark key="^" line="11" column="61" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/DarkRoast.java" timestamp="1555037033722">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/MuteQuack.java" timestamp="1554800077711">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/UserMapper.java" timestamp="1554716877086">
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/utils/CommonUtils.java" timestamp="1555407052433">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/Context.java" timestamp="1555401371188">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/HouseBlendWithSteamedMilk.java" timestamp="1554884137222">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyWithWings.java" timestamp="1554799841329">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/readme.txt" timestamp="1554798591141">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="160" />
+        <mark key="^" line="2" column="160" />
+        <mark key="." line="2" column="160" />
       </file>
       <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/CmppClient.java" timestamp="1557198045085">
         <mark key="[" line="290" column="31" />
@@ -51,74 +51,11 @@
         <mark key="^" line="290" column="30" />
         <mark key="." line="290" column="30" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/starter/StringOriginal.java" timestamp="1555403810948">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_fi/package-info.java" timestamp="1555315633908">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ConcreteStrategyB.java" timestamp="1554865218614">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/MultiType.java" timestamp="1555319861242">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/main/java/com/github/sepiggy/stringmaster/DemoApplication.java" timestamp="1555208699920">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/UnderscoreStringConverter.java" timestamp="1555401966384">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-      </file>
-      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Main.java" timestamp="1557995083799">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/StringSourcer.java" timestamp="1555409361380">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.cmcc.provision/src/waf/sln/cmcc/provision/db.properties" timestamp="1556160873449">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/MoProcessBase.java" timestamp="1555493253720">
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="5" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/StrategyEnum.java" timestamp="1554873032387">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/AllLittCaseStringConverter.java" timestamp="1555402162869">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Cache.java" timestamp="1555318319758">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version07/readme.txt" timestamp="1555306627437">
         <mark key="[" line="0" column="0" />
@@ -126,149 +63,17 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/Main.java" timestamp="1554802541896">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_fi/package-info.java" timestamp="1555315633908">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch01/v01/Type.java" timestamp="1554194085153">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_comparator/version01/Client.java" timestamp="1555395147128">
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="16" column="72" />
-        <mark key="." line="16" column="72" />
-        <mark key="^" line="16" column="72" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Decaf.java" timestamp="1555033900157">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/Quack.java" timestamp="1554799972734">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch02/demo01.clj" timestamp="1557823261458">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/ConsumerDemo.java" timestamp="1555391458501">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/dbpool.xml" timestamp="1555496817028">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="3" column="25" />
-        <mark key="." line="10" column="35" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/ClipboardStringSourcer.java" timestamp="1555409421639">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/DarkRoast.java" timestamp="1555037033722">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Beverage.java" timestamp="1555036426510">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-      </file>
-      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo03.js" timestamp="1557718728775">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/StringConverter.java" timestamp="1555400922513">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waflib/waf.sln.sms.util.jar!/waf/sln/sms/util/Conf.class" timestamp="1555554425100">
-        <mark key="[" line="106" column="9" />
-        <mark key="]" line="106" column="8" />
-        <mark key="^" line="106" column="8" />
-        <mark key="." line="106" column="8" />
-      </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/DogDoor.java" timestamp="1554260473121">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="21" column="19" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/TestWildCards.java" timestamp="1555321025159">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-        <mark key="^" line="6" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/TestWildCards" timestamp="1555320856660">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/.gitignore" timestamp="1554190554761">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageCommand.java" timestamp="1556420151562">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/data.txt" timestamp="1555313291246">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/Client.java" timestamp="1555315353064">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Espresso.java" timestamp="1554883913640">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-      </file>
-      <file name="C:/Development/Git-Repository/sms-136/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/ReportProcessCoop.java" timestamp="1556529638830">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/PrimaryMemberStrategy.java" timestamp="1554867312427">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="6" column="36" />
-        <mark key="^" line="6" column="36" />
-        <mark key="." line="6" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Base.java" timestamp="1555320484040">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/SpaceTokenSplitterStrategy.java" timestamp="1555407759359">
         <mark key="[" line="5" column="34" />
@@ -276,172 +81,17 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/Quackable.java" timestamp="1554779701026">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/RubberDuck.java" timestamp="1554778669647">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="61" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/package-info.java" timestamp="1555314732445">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/CamelCaseStringConverter.java" timestamp="1555402531294">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version05/ApplePredicate.java" timestamp="1555305731842">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Apple.java" timestamp="1555214930202">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch05/Account.java" timestamp="1557992173937">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/Duck.java" timestamp="1554778116245">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="13" column="52" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleGreenColorPredicate.java" timestamp="1555303730505">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Mocha.java" timestamp="1555038278607">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Client.java" timestamp="1554867840114">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="55" />
-        <mark key="^" line="19" column="55" />
-        <mark key="." line="19" column="55" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version02/Client.java" timestamp="1555300708726">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyBehavior.java" timestamp="1554799644651">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleHeavyWeightPredicate.java" timestamp="1555303749979">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03/version00/Client.java" timestamp="1555309345375">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="36" />
-        <mark key="^" line="21" column="36" />
-        <mark key="." line="21" column="36" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/Client.java" timestamp="1554873282174">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="60" />
-        <mark key="^" line="13" column="62" />
-        <mark key="." line="13" column="60" />
-      </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/Remote.java" timestamp="1554262013821">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/RedheadDuck.java" timestamp="1554782028059">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="43" />
-      </file>
-      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch04/demo01.clj" timestamp="1557903840297">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/http/RequestEntity.class" timestamp="1555388259489">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="13" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="17" column="13" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.deliverprocess/src/waf/sln/sms/deliverprocess/Main.java" timestamp="1555489904093">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/FunctionDemo.java" timestamp="1555392594263">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-      </file>
-      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo02.js" timestamp="1557393355834">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/bak/MoProcessCoopBase.java" timestamp="1555553248876">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="21" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/MallardDuck.java" timestamp="1554782013906">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="42" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/IdentityEnum.java" timestamp="1554795342506">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/PrimerMemberStrategy.java" timestamp="1554867219377">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weatherstation/version00/WeatherStation.java" timestamp="1554880162739">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/readme.md" timestamp="1555037539435">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="18" column="13" />
+      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Main.java" timestamp="1557995083799">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Git/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch03/demo02.clj" timestamp="1556092925716">
         <mark key="[" line="37" column="60" />
@@ -449,29 +99,17 @@
         <mark key="^" line="37" column="59" />
         <mark key="." line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch01/FindGuitarTester.java" timestamp="1554190455055">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="9" column="51" />
-        <mark key="^" line="30" column="41" />
-        <mark key="." line="9" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/application.yml" timestamp="1554716584563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Espresso.java" timestamp="1554885674198">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-      </file>
-      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Server.java" timestamp="1557131317978">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyNoWay.java" timestamp="1554799838709">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/BaseResponse.java" timestamp="1555387307602">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/UnderscoreTokenSplitterStrategy.java" timestamp="1555407702494">
         <mark key="[" line="5" column="34" />
@@ -479,65 +117,47 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Tencent Files/553859858/FileRecv/spms.cmpp3/spms.cmpp3/src/spms/cmpp3/dao/SmsMoDAO.java" timestamp="1557029487523">
-        <mark key="[" line="15" column="268" />
-        <mark key="]" line="15" column="268" />
-        <mark key="^" line="15" column="268" />
-        <mark key="." line="15" column="268" />
-      </file>
-      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageInvoker.java" timestamp="1556420192082">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/demo2/Server.java" timestamp="1557131934607">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/IntPredicateDemo.java" timestamp="1555393294712">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test.java" timestamp="1555319531681">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/Weekday.java" timestamp="1554786464407">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/readme.txt" timestamp="1554884337270">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version00/DecoyDuck.java" timestamp="1554780617675">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="57" />
-        <mark key="." line="6" column="57" />
-        <mark key="^" line="6" column="57" />
-      </file>
       <file name="$USER_HOME$/Git/sms/waf.sln.cmcc.provision/src/waf/sln/cmcc/provision/PoolManager.java" timestamp="1556161863304">
         <mark key="[" line="40" column="33" />
         <mark key="]" line="41" column="34" />
         <mark key="." line="41" column="34" />
         <mark key="^" line="41" column="34" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version05/readme.txt" timestamp="1555305785998">
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Soy.java" timestamp="1555034247330">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_comparator/version01/Client.java" timestamp="1555395147128">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="72" />
+        <mark key="." line="16" column="72" />
+        <mark key="^" line="16" column="72" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/starter/StringOriginal.java" timestamp="1555403810948">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/readme.txt" timestamp="1554885258296">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch02/demo01.clj" timestamp="1557823261458">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/MemberStrategy.java" timestamp="1554867155674">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/QuackBehavior.java" timestamp="1554799690359">
         <mark key="[" line="2" column="32" />
@@ -545,46 +165,83 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo06.clj" timestamp="1557733184660">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-        <mark key="^" line="31" column="7" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Beverage.java" timestamp="1554883564518">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Git/test.java" timestamp="1554791195858">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/readme.txt" timestamp="1554884337270">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
-      <file name="C:/Development/Playground/playground4j/pom.xml" timestamp="1557124555567">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="25" column="20" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/ServerSocket.java" timestamp="1557130878495">
-        <mark key="[" line="126" column="29" />
-        <mark key="]" line="126" column="28" />
-        <mark key="^" line="126" column="28" />
-        <mark key="." line="126" column="28" />
-      </file>
-      <file name="/REPL.clj" timestamp="1558318347823">
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version01/readme.txt" timestamp="1555299192678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/Context.java" timestamp="1554873153452">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+      <file name="$USER_HOME$/Git/leiningen-hello/src/leiningen_hello/core.clj" timestamp="1555658283653">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/HouseBlend.java" timestamp="1555037173933">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo03.js" timestamp="1557718728775">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.cmcc.cmpp3.gateway/src/waf/sln/cmcc/cmpp3/gateway/Main_MO.java" timestamp="1556000477431">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/DogDoor.java" timestamp="1554260473121">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/data.txt" timestamp="1555313291246">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageCommand.java" timestamp="1556420151562">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/HouseBlend.java" timestamp="1554886173160">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/Main.java" timestamp="1554778847941">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="25" column="24" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/UnderscoreStringConverter.java" timestamp="1555401966384">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/package-info.java" timestamp="1555314732445">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ShoppingCart.java" timestamp="1554866860515">
         <mark key="[" line="4" column="0" />
@@ -592,11 +249,104 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/HyphenStringConverter.java" timestamp="1555401794166">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="5" column="41" />
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/SplitterStrategyContext.java" timestamp="1555407863176">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/CamelCaseStringConverter.java" timestamp="1555402531294">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+      </file>
+      <file name="C:/Development/Git-Repository/sms-136/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/ReportProcessCoop.java" timestamp="1556529638830">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/ProgramArgumentsStringSourcer.java" timestamp="1555409439287">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/bak/MoProcessCoopBase.java" timestamp="1555553248876">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/resources/private.key" timestamp="1554701775976">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ConcreteStrategyB.java" timestamp="1554865218614">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/readme.md" timestamp="1555394254572">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/Client.java" timestamp="1555307167079">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="35" column="46" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version02/Client.java" timestamp="1555300708726">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/Main.java" timestamp="1555313219011">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version00/readme.txt" timestamp="1554782483730">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version03/Client.java" timestamp="1555302017349">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/ReportProcessBase.java" timestamp="1555985512512">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="59" column="0" />
+      </file>
+      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch05/Account.java" timestamp="1557992173937">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/HyphenStringConverter.java" timestamp="1555401983582">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Git/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch03/demo01.clj" timestamp="1556092124316">
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="276" column="6" />
+        <mark key="^" line="276" column="6" />
+        <mark key="." line="276" column="6" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/version00/WeatherData.java" timestamp="1554879559205">
         <mark key="[" line="39" column="0" />
@@ -604,32 +354,181 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/Espresso.java" timestamp="1555037231665">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/Main.java" timestamp="1554865251745">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557998403564">
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/IdentityEnum.java" timestamp="1554795342506">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Apple.java" timestamp="1555214930202">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyBehavior.java" timestamp="1554799644651">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test3.java" timestamp="1555385804543">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core.clj" timestamp="1558602598499">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch04/demo01.clj" timestamp="1557903840297">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch01/FindGuitarTester.java" timestamp="1554190455055">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/readme.txt" timestamp="1555036380432">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Git/sms/waflib/lib2/servlet-api.jar!/javax/servlet/http/HttpServlet.class" timestamp="1555552834496">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="212" column="33" />
-        <mark key="." line="212" column="33" />
+      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo02.js" timestamp="1557393355834">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/DisplayElement.java" timestamp="1554878930922">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/http/RequestEntity.class" timestamp="1555388259489">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/SplitterStrategyContext.java" timestamp="1555407863176">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/AdvancedMemberStrategy.java" timestamp="1554867452908">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/HouseBlend.java" timestamp="1555037173933">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/ClipboardStringSourcer.java" timestamp="1555409421639">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/AllLittCaseStringConverter.java" timestamp="1555402162869">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageInvoker.java" timestamp="1555559528153">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/MultiType.java" timestamp="1555319861242">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+      </file>
+      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Server.java" timestamp="1557131317978">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/db/schema-h2.sql" timestamp="1554716612050">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageInvoker.java" timestamp="1556420192082">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Main.java" timestamp="1554867007817">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
+        <mark key="^" line="8" column="68" />
+      </file>
+      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/demo2/Server.java" timestamp="1557131934607">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weatherstation/version00/WeatherStation.java" timestamp="1554880162739">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/ErrorEnum.java" timestamp="1554797069221">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03/version00/Client.java" timestamp="1555309345375">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/IntPredicateDemo.java" timestamp="1555393294712">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Mocha.java" timestamp="1555038278607">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/utils/CommonUtils.java" timestamp="1555407052433">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo06.clj" timestamp="1557733184660">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/main/java/com/github/sepiggy/stringmaster/DemoApplication.java" timestamp="1555208699920">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version00/package-info.java" timestamp="1555314377253">
         <mark key="[" line="3" column="32" />
@@ -637,14 +536,94 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/readme.txt" timestamp="1554865491569">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/Development/Playground/playground4j/pom.xml" timestamp="1557124555567">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/Remote.java" timestamp="1554262013821">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="23" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/ServerSocket.java" timestamp="1557130878495">
+        <mark key="[" line="126" column="29" />
+        <mark key="]" line="126" column="28" />
+        <mark key="^" line="126" column="28" />
+        <mark key="." line="126" column="28" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waflib/lib2/servlet-api.jar!/javax/servlet/http/HttpServlet.class" timestamp="1555552834496">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="212" column="33" />
+        <mark key="." line="212" column="33" />
+      </file>
+      <file name="/REPL.clj" timestamp="1558594298342">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Price.java" timestamp="1554867599890">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558602612560">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/UserType.java" timestamp="1554795196869">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.deliverprocess/src/waf/sln/sms/deliverprocess/Main.java" timestamp="1555489904093">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/Duck.java" timestamp="1554778116245">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Whip.java" timestamp="1555035393952">
+        <mark key="[" line="10" column="145" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+      </file>
       <file name="C:/Development/Playground/Demo4J/.gitignore" timestamp="1557114311118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version01/readme.txt" timestamp="1555299192678">
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/PrimerMemberStrategy.java" timestamp="1554867219377">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/HyphenSplitterStrategy.java" timestamp="1555407624246">
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version05/readme.txt" timestamp="1555305785998">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Test.java" timestamp="1557995917492">
         <mark key="'" line="8" column="18" />
@@ -653,11 +632,11 @@
         <mark key="^" line="36" column="40" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/NotaryTransResponse.java" timestamp="1554710207023">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/v01/Remote.java" timestamp="1554264197262">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="29" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1555496775877">
         <mark key="[" line="0" column="0" />
@@ -668,23 +647,23 @@
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test3.java" timestamp="1555385804543">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Git/sms/waflib/waf.sln.sms.util.jar!/waf/sln/sms/util/Conf.class" timestamp="1555554425100">
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="8" />
+        <mark key="^" line="106" column="8" />
+        <mark key="." line="106" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/IdentityEnum.java" timestamp="1554796791037">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/TestWildCards" timestamp="1555320856660">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/Context.java" timestamp="1555401371188">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test.java" timestamp="1555319531681">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
       <file name="C:/Development/Playground/Demo4J/src/Person.java" timestamp="1557123232032">
         <mark key="[" line="4" column="49" />
@@ -692,152 +671,8 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/Git/leiningen-hello/src/leiningen_hello/core.clj" timestamp="1555658283653">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/User.java" timestamp="1554716837678">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/observer/eg00/Observer.java" timestamp="1554881660732">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.cmcc.cmpp3.gateway/src/waf/sln/cmcc/cmpp3/gateway/Main_MO.java" timestamp="1556000477431">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Main.java" timestamp="1554886192219">
-        <mark key="[" line="10" column="76" />
-        <mark key="]" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="C:/Development/Playground/Demo4J/src/Test.java" timestamp="1557123199702">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1554717468402">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="62" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version00/readme.txt" timestamp="1554782483730">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/BaseBeverage.java" timestamp="1555037871240">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Milk.java" timestamp="1555034195444">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/HouseBlend.java" timestamp="1554886173160">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-      </file>
       <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/readme.txt" timestamp="1555302104508">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/IntermidateMemberStrategy.java" timestamp="1554866046218">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/ErrorEnum.java" timestamp="1554797069221">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03/version00/Apple.java" timestamp="1555308922845">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.model/src/waf/sln/sms/model/HibernateSessionFactory.java" timestamp="1555573688832">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/Main.java" timestamp="1554865251745">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-      </file>
-      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Person.java" timestamp="1557127046191">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/RubberDuck.java" timestamp="1554782064938">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="35" />
-        <mark key="^" line="12" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/UserType.java" timestamp="1554795196869">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/Git/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch03/demo01.clj" timestamp="1556092124316">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="276" column="6" />
-        <mark key="^" line="276" column="6" />
-        <mark key="." line="276" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test1.java" timestamp="1555320188165">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="49" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/readme.txt" timestamp="1554885258296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ConverterStrategyContext.java" timestamp="1555408388265">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Price.java" timestamp="1554867599890">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ConcreteStrategyC.java" timestamp="1554865226398">
         <mark key="[" line="6" column="28" />
@@ -845,89 +680,29 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/readme.txt" timestamp="1554865617536">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Development/Playground/Demo4J/src/Test.java" timestamp="1557123199702">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/MallardDuck.java" timestamp="1554777854605">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/resources/private.key" timestamp="1554701775976">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/readme.txt" timestamp="1554865491569">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="C:/Development/Playground/Demo4J/README.md" timestamp="1557123389312">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/Subject.java" timestamp="1554878496737">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/AdvancedMemberStrategy.java" timestamp="1554867452908">
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/PrimaryMemberStrategy.java" timestamp="1554867312427">
         <mark key="[" line="5" column="50" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/readme.md" timestamp="1554881407827">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/Main.java" timestamp="1554778847941">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/RedheadDuck.java" timestamp="1554777833565">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-      </file>
-      <file name="C:/Development/Playground/playground4j/src/test/java/cn/sepiggy/AppTest.java" timestamp="1557126968343">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-      </file>
-      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch02/v01/Remote.java" timestamp="1554264197262">
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="29" column="14" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/utils/ClipboardUtils.java" timestamp="1555400029872">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/IntermediateMemberStrategy.java" timestamp="1554867386711">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/readme.txt" timestamp="1555036380432">
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/db/data-h2.sql" timestamp="1554716622787">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
-      <file name="C:/Development/Playground/playground4j/.gitignore" timestamp="1557124998274">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/DecoyDuck.java" timestamp="1554781332239">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/ApplePredicate.java" timestamp="1555304432203">
         <mark key="[" line="2" column="17" />
@@ -935,11 +710,126 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Main.java" timestamp="1554867007817">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="68" />
-        <mark key="." line="8" column="68" />
-        <mark key="^" line="8" column="68" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/readme.md" timestamp="1555037539435">
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="18" column="13" />
+        <mark key="^" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.cmcc.provision/src/waf/sln/cmcc/provision/db.properties" timestamp="1556160873449">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/readme.txt" timestamp="1555034677311">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/temp/TrafficLamp.java" timestamp="1554793575133">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="31" column="57" />
+        <mark key="^" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+      </file>
+      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Person.java" timestamp="1557127046191">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Decaf.java" timestamp="1554883842238">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/Flyable.java" timestamp="1554779695202">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/HouseBlendWithSteamedMilk.java" timestamp="1554884137222">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/User.java" timestamp="1554716837678">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03/version00/Apple.java" timestamp="1555308922845">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/TestWildCards.java" timestamp="1555321025159">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Main.java" timestamp="1554886192219">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="10" column="76" />
+        <mark key="." line="10" column="76" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleHeavyWeightPredicate.java" timestamp="1555303749979">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+      </file>
+      <file name="C:/Development/Playground/Demo4J/README.md" timestamp="1557123389312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Client.java" timestamp="1554867840114">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/Client.java" timestamp="1555313825563">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="^" line="10" column="133" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Decaf.java" timestamp="1555033900157">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Espresso.java" timestamp="1554883913640">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" timestamp="1558602339309">
+        <mark key="'" line="5" column="3" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="67" column="51" />
+        <mark key="." line="67" column="51" />
+        <mark key="^" line="67" column="51" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ConverterStrategyContext.java" timestamp="1555408388265">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Git/leiningen-hello/project.clj" timestamp="1555657560534">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/Observer.java" timestamp="1554878564283">
         <mark key="[" line="2" column="27" />
@@ -947,41 +837,56 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/M2notaryApplication.java" timestamp="1555390816421">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="21" />
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/MoProcessBase.java" timestamp="1555493253720">
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="5" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/HyphenSplitterStrategy.java" timestamp="1555407624246">
-        <mark key="[" line="2" column="70" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/BufferdReaderProcessor.java" timestamp="1555314496323">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/MemberStrategy.java" timestamp="1554867155674">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/package-info.java" timestamp="1555394136732">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/Squeak.java" timestamp="1554800014631">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="42" />
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ABStringConverter.java" timestamp="1555402111790">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/ActiveTestMessageRequest.java" timestamp="1556420071407">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="C:/Development/Playground/playground4j/src/test/java/cn/sepiggy/AppTest.java" timestamp="1557126968343">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ConcreteStrategyA.java" timestamp="1554865209718">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/version01/Client.java" timestamp="1555315353064">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/Client.java" timestamp="1554873282174">
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="60" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="60" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/StringSourcer.java" timestamp="1555409361380">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+      </file>
+      <file name="C:/Development/Playground/playground4j/.gitignore" timestamp="1557124998274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/splitter/TokenSplitterStrategy.java" timestamp="1555407532341">
         <mark key="[" line="4" column="34" />
@@ -989,23 +894,89 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Whip.java" timestamp="1555035393952">
-        <mark key="[" line="10" column="145" />
-        <mark key="]" line="11" column="37" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="11" column="37" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Beverage.java" timestamp="1555036426510">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/Main.java" timestamp="1555313219011">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/StrategyEnum.java" timestamp="1554873032387">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Cache.java" timestamp="1555318319758">
-        <mark key="[" line="20" column="50" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/NotaryTransResponse.java" timestamp="1554710207023">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyNoWay.java" timestamp="1554799838709">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/Espresso.java" timestamp="1555037231665">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/Development/Git-Repository/sms-136/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/ActiveTestMessageRequest.java" timestamp="1556420071407">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleGreenColorPredicate.java" timestamp="1555303730505">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Context.java" timestamp="1554865127185">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg00/readme.md" timestamp="1554881407827">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/HyphenStringConverter.java" timestamp="1555401794166">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/Squeak.java" timestamp="1554800014631">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/Quack.java" timestamp="1554799972734">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg03/Context.java" timestamp="1554873153452">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/ch01/v01/Type.java" timestamp="1554194085153">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo05.clj" timestamp="1557732220047">
         <mark key="'" line="23" column="0" />
@@ -1014,176 +985,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/Client.java" timestamp="1555307167079">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="35" column="46" />
-        <mark key="." line="35" column="46" />
-        <mark key="^" line="35" column="46" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/ApplePredicate.java" timestamp="1555306281957">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/test/java/cn/people/m2notary/M2notaryApplicationTests.java" timestamp="1555389675982">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-      </file>
-      <file name="$USER_HOME$/Git/leiningen-hello/project.clj" timestamp="1555657560534">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/DecoyDuck.java" timestamp="1554781332239">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version03/Client.java" timestamp="1555302017349">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="^" line="31" column="64" />
-      </file>
-      <file name="$USER_HOME$/Git/sms/waf.protocal.cmcc.cmpp3/src/waf/protocol/cmcc/cmpp3/command/MessageInvoker.java" timestamp="1555559528153">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/Flyable.java" timestamp="1554779695202">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/Decaf.java" timestamp="1555037272362">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Beverage.java" timestamp="1554883564518">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/readme.txt" timestamp="1554798591141">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="2" column="160" />
-        <mark key="^" line="2" column="160" />
-        <mark key="." line="2" column="160" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version00/Decaf.java" timestamp="1554883842238">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-      </file>
-      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558338797344">
-        <mark key="[" line="144" column="25" />
-        <mark key="]" line="144" column="24" />
-        <mark key="." line="144" column="24" />
-        <mark key="^" line="144" column="24" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/readme.txt" timestamp="1555034677311">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version07/ApplePredicate.java" timestamp="1555306644948">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Soy.java" timestamp="1555034247330">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/readme.txt" timestamp="1555306408914">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/CondimentDecorator.java" timestamp="1555038131249">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-      </file>
-      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch05/Main.java" timestamp="1557992330383">
-        <mark key="[" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/db/data-h2.sql" timestamp="1554716622787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/CertType.java" timestamp="1554795290090">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/ABStringConverter.java" timestamp="1555402111790">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/temp/TrafficLamp.java" timestamp="1554793575133">
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="31" column="57" />
-        <mark key="^" line="31" column="57" />
-        <mark key="." line="31" column="57" />
-      </file>
-      <file name="C:/Development/Git-Repository/spms-136/spms.smsdeliverprocess/spms.smsdeliverprocess.jar!/spms/smsdeliverprocess/service/Main.class" timestamp="1556247340331">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="8" />
-        <mark key="^" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-      </file>
-      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch03/demo01.clj" timestamp="1557887958957">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="6" />
-        <mark key="^" line="30" column="8" />
-        <mark key="." line="30" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/UserMapper.java" timestamp="1554716877086">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/db/schema-h2.sql" timestamp="1554716612050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/FlyWithWings.java" timestamp="1554799841329">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/sourcer/ProgramArgumentsStringSourcer.java" timestamp="1555409439287">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Apple.java" timestamp="1555303240812">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/HttpEnum.java" timestamp="1555386614922">
         <mark key="[" line="2" column="27" />
@@ -1191,23 +997,231 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/resources/application.yml" timestamp="1554716584563">
+      <file name="$USER_HOME$/Git/head-first-dp/src/Weekday.java" timestamp="1554786464407">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/IntermidateMemberStrategy.java" timestamp="1554866046218">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/CondimentDecorator.java" timestamp="1555038131249">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/MallardDuck.java" timestamp="1554782013906">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/Subject.java" timestamp="1554878496737">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyBatisDemo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1554717468402">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/beverage/Decaf.java" timestamp="1555037272362">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/BaseBeverage.java" timestamp="1555037871240">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/FunctionDemo.java" timestamp="1555392594263">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/utils/ClipboardUtils.java" timestamp="1555400029872">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/RedheadDuck.java" timestamp="1554782028059">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/IdentityEnum.java" timestamp="1554796791037">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+      </file>
+      <file name="C:/Development/Git-Repository/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558338797344">
+        <mark key="[" line="144" column="25" />
+        <mark key="]" line="144" column="24" />
+        <mark key="." line="144" column="24" />
+        <mark key="^" line="144" column="24" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/Quackable.java" timestamp="1554779701026">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/observer/eg00/Observer.java" timestamp="1554881660732">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo02.clj" timestamp="1558597479150">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="C:/Development/Git-Repository/java-concurrency-geektime/src/ch05/Main.java" timestamp="1557992330383">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/quack/MuteQuack.java" timestamp="1554800077711">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/test.java" timestamp="1554791195858">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/Context.java" timestamp="1554865127185">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/dbpool.xml" timestamp="1555496817028">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/enums/HttpEnums.java" timestamp="1555386977795">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="24" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleRedAndHeavyWeightPredicate.java" timestamp="1555305360361">
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="5" column="72" />
+        <mark key="^" line="5" column="72" />
+        <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/wonderland.clj" timestamp="1558598055663">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version00/DecoyDuck.java" timestamp="1554780617675">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="57" />
+        <mark key="." line="6" column="57" />
+        <mark key="^" line="6" column="57" />
+      </file>
+      <file name="C:/Development/Git-Repository/spms-136/spms.smsdeliverprocess/spms.smsdeliverprocess.jar!/spms/smsdeliverprocess/service/Main.class" timestamp="1556247340331">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Test1.java" timestamp="1555320188165">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+      </file>
+      <file name="C:/Development/Git-Repository/clojure-programming/src/clojure_programming/ch03/demo01.clj" timestamp="1557887958957">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/ApplePredicate.java" timestamp="1555306281957">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/M2notaryApplication.java" timestamp="1555390816421">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Milk.java" timestamp="1555034195444">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/test/java/cn/people/m2notary/M2notaryApplicationTests.java" timestamp="1555389675982">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/Git/sms/waf.sln.sms.model/src/waf/sln/sms/model/HibernateSessionFactory.java" timestamp="1555573688832">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version02/Main.java" timestamp="1554802541896">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" timestamp="1558596794624">
+        <mark key="'" line="47" column="3" />
+        <mark key="[" line="190" column="10" />
+        <mark key="]" line="190" column="10" />
+        <mark key="." line="190" column="10" />
+        <mark key="^" line="190" column="11" />
+      </file>
+      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/StringConverter.java" timestamp="1555400922513">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01_simuduck/version01/RubberDuck.java" timestamp="1554782064938">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/ConcreteStrategyA.java" timestamp="1554865209718">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version07/ApplePredicate.java" timestamp="1555306644948">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version01/Espresso.java" timestamp="1554885674198">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="C:/Development/Git-Repository/clojure-for-the-brave-and-true/src/clojure_for_the_brave_and_true/ch04/demo04.clj" timestamp="1557730687725">
         <mark key="'" line="43" column="39" />
@@ -1216,23 +1230,29 @@
         <mark key="^" line="116" column="39" />
         <mark key="." line="116" column="39" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleRedColorPredicate.java" timestamp="1555305229884">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
+      <file name="$USER_HOME$/Git/java-study/head-first-ooad/src/.gitignore" timestamp="1554190554761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
-      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Client.java" timestamp="1557131275079">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version06/readme.txt" timestamp="1555306408914">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/readme.md" timestamp="1555394254572">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/RedheadDuck.java" timestamp="1554777833565">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch02_observer_weather/DisplayElement.java" timestamp="1554878930922">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Git/head-first-dp/src/ch03_decorator_starbuzz/version02/Spice.java" timestamp="1555034084865">
         <mark key="[" line="2" column="7" />
@@ -1240,65 +1260,66 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Base.java" timestamp="1555320484040">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/Development/Playground/playground4j/src/main/java/cn/sepiggy/Client.java" timestamp="1557131275079">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/string-master/src/com/github/sepiggy/converter/HyphenStringConverter.java" timestamp="1555401983582">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version05/ApplePredicate.java" timestamp="1555305731842">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Git/sms/waf.sln.sms.businessprocess/src/waf/sln/sms/businessprocess/ReportProcessBase.java" timestamp="1555985512512">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="59" column="0" />
+      <file name="$USER_HOME$/Documents/Tencent Files/553859858/FileRecv/spms.cmpp3/spms.cmpp3/src/spms/cmpp3/dao/SmsMoDAO.java" timestamp="1557029487523">
+        <mark key="[" line="15" column="268" />
+        <mark key="]" line="15" column="268" />
+        <mark key="^" line="15" column="268" />
+        <mark key="." line="15" column="268" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Apple.java" timestamp="1555303240812">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1558509122044">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleRedAndHeavyWeightPredicate.java" timestamp="1555305360361">
-        <mark key="[" line="2" column="72" />
-        <mark key="]" line="5" column="72" />
-        <mark key="^" line="5" column="72" />
-        <mark key="." line="5" column="72" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch02/version04/AppleRedColorPredicate.java" timestamp="1555305229884">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/package-info.java" timestamp="1555394136732">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/Git/head-first-dp/src/ch01/simuduck/version00/MallardDuck.java" timestamp="1554777854605">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_processfile/Client.java" timestamp="1555313825563">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="56" />
-        <mark key="^" line="10" column="133" />
-        <mark key="." line="10" column="56" />
+      <file name="$USER_HOME$/Git/java8-in-action/src/ch03_functional_interface/ConsumerDemo.java" timestamp="1555391458501">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/m2notary/src/main/java/cn/people/m2notary/common/CertType.java" timestamp="1554795290090">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/readme.txt" timestamp="1554865617536">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/design_pattern-study/src/strategy/eg01/IntermediateMemberStrategy.java" timestamp="1554867386711">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="16" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Apple.java" />
-      <jump line="31" column="40" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="42" column="20" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="39" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="36" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/Client.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="18" column="7" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
-      <jump line="43" column="34" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version00/Client.java" />
-      <jump line="26" column="32" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
-      <jump line="28" column="13" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version01/Client.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version02/Apple.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version03/Client.java" />
       <jump line="16" column="4" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Client.java" />
       <jump line="32" column="68" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version04/Client.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Git/java8-in-action/src/ch02/version05/Apple.java" />
@@ -1384,10 +1405,25 @@
       <jump line="16" column="31" filename="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Test.java" />
       <jump line="3" column="0" filename="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Test.java" />
       <jump line="8" column="18" filename="C:/Development/Git-Repository/java-concurrency-geektime/src/ch01/Test.java" />
+      <jump line="2" column="14" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Main.java" />
+      <jump line="89" column="24" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="143" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/clojure/clojure/1.10.0/clojure-1.10.0.jar!/clojure/core.clj" />
+      <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="38" column="1" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="146" column="0" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="147" column="5" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="183" column="11" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="47" column="3" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch01/demo01.clj" />
+      <jump line="4" column="3" filename="$USER_HOME$/IdeaProjects/living-clojure/src/living_clojure/ch02/demo01.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">cGFja2FnZSBjaDAzX2RlY29yYXRvcl9zdGFyYnV6ei52ZXJzaW9uMDA7CgpwdWJsaWMgY2xhc3MgRGFya1JvYXN0IGV4dGVuZHMgQmV2ZXJhZ2UgewoKICAgIHB1YmxpYyBEYXJrUm9hc3QoKSB7CiAgICAgICAgZGVzY3JpcHRpb24gPSAiSSBhbSBkYXJrIHJvYXN0IGNvZmZlZS4iCiAgICB9Cgo=</text>
@@ -1396,40 +1432,40 @@
         <text>kkkjjjK</text>
       </register>
       <register name="-" type="4">
-        <text>差</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KDpqYW0yIHs6amFtMSAic3RyYXdiZXJyeSIsIDpqYW0yICJibGFja2JlcnJ5IiwgOmphbTMgIm1hcm1hbGFkZSJ9KQo=</text>
+        <text encoding="base64">KHNvbWUgIyg+ICUgMykgWzEgMiAzIDQgNV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgMS4yLjMg5a+5IENvbGxlY3Rpb24g5q+P5LiA6aG56L+b6KGM5rWL6K+VIC0tPiBldmVyeT8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">o6gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGVtcHR5ICcoMSAyIDMgNCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ozs7IDYuMiBtYXAK</text>
+        <text encoding="base64">KGNsYXNzID0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KG1hcCAoOmphbTEgInN0cmF3YmVycnkiIDpqYW0yICJibGFja2JlcnJ5IikpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ezpqYW0xICJzdHJhd2JlcnJ5IiwgOmphbTIgImJsYWNrYmVycnkifQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KGNsYXNzIChyZXN0IFsxIDIgMyA0XSkpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmFsc2UKKGNsYXNzIGZhbHNlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KHRydWU/ICg9IDMgNCkpCih0cnVlPyAoPSAxIDEpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KHRydWU/IHRydWUpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KGNvbnMgNSAzKQo=</text>
+        <text encoding="base64">KCpjb21tYW5kLWxpbmUtYXJncyopCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
